@@ -1,0 +1,21 @@
+{
+  "name": "npm-init-example",
+  "version": "1.0.0",
+  "description": "Example package.json",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "ikhlassammar",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.9.2"
+  }
+}
